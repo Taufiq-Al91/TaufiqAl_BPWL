@@ -1,7 +1,7 @@
 <?php 
 
 	class database{
-
+//membuat konfig database
 		var $host = "localhost";  
 		var $uname = "root";
 		var $pass = "";
